@@ -1,0 +1,5 @@
+# Include data files
+include sportlocate/data/*
+
+# Include qml files
+recursively-include sportlocate/views/*
